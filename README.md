@@ -16,8 +16,6 @@ We experiment with the following regression models:
 
 Linear Regression
 
-Ridge and Lasso Regression
-
 Random Forest Regressor
 
-Gradient Boosting Regressor
+
